@@ -25,10 +25,6 @@ namespace sql_support_test
             currentUserControl = new HelloControl();
             changeCurrentControl(currentUserControl);
             Application.Run(mainForm);
-            //Form1 form1 = new Form1();
-            //Application.Run(form1);
-            //WebBrowser browser = form.webBrowser1;
-            //browser.DocumentText = "<html><body>Hello, World!</body></html>";
         }
 
 
